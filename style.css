@@ -1,5 +1,5 @@
 :root{
-	--dark-body: #4d4c5a;
+    --dark-body: #4d4c5a;
     --dark-main: #141529;
     --dark-second: #79788c;
     --dark-hover: #323048;
@@ -50,7 +50,7 @@ body {
     font-family: sans-serif;
     background-image: url(landscape.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+   
     
 }
 
