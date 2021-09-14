@@ -49,8 +49,11 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    font-family: var(--font-family);
-    background-color: var(--bg-body);
+    font-family: sans-serif;
+    background-image: url(landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 .calendar {
