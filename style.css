@@ -48,8 +48,9 @@ body {
     display: grid;
     place-items: center;
     font-family: sans-serif;
-    background-image: url(landscape.jpg);
+    background-image: url(img_snowtops.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
    
     
 }
